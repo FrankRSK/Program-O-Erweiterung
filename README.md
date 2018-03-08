@@ -1,2 +1,2 @@
 # Program-O-Erweiterung
-Erweiterung von Program-O um eine HandyApp (AppInvenor)
+Erweiterung von Program-O um eine HandyApp (AppInvetnor 2)
